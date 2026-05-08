@@ -1,0 +1,24 @@
+{
+  "name": "cargasmart",
+  "version": "1.0.0",
+  "description": "Test de creacion de organizaciones y repositorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CargaSmart-DevOps-G-C-E-M/CargaSmart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CargaSmart-DevOps-G-C-E-M/CargaSmart/issues"
+  },
+  "homepage": "https://github.com/CargaSmart-DevOps-G-C-E-M/CargaSmart#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
